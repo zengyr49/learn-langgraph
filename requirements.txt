@@ -1,0 +1,15 @@
+# LangChain 核心依赖
+langchain_core>=0.1.0
+langchain>=0.1.0
+
+# LangGraph 依赖
+langgraph>=0.0.1
+langchain_community>=0.4.1
+dashscope>=1.25.2
+
+# 基础依赖
+typing-extensions>=4.5.0
+
+# 可选：如果需要与其他服务集成，可以添加以下依赖
+# langchain-openai>=0.0.1  # OpenAI集成
+# langchain-community>=0.0.1  # 社区集成
